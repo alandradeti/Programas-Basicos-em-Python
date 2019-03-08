@@ -7,7 +7,7 @@ import math
 a = int(input("Digite o valor de A: "))
 b = int(input("Digite o valor de B: "))
 
-# Calculo e declaração da variável "valorFinal", que representa o valor final.
+# Cálculo e declaração da variável "valorFinal", que representa o valor final.
 valorFinal = (math.pow(a,2) + 2*(a*b) + math.pow(b,2))
 
 # Imprimir as variáveis "a" e "b" e  "valorFinal".
