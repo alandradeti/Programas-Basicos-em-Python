@@ -1,7 +1,0 @@
-# Algoritmo AreaRetangulo
-
-O algoritmo realiza:
-- O calculo da área de um retângulo.
-
-O algoritmo apresenta:
-- A área do retângulo.
