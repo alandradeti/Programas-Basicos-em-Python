@@ -1,3 +1,4 @@
+# Autor: Ailton Lima de Andrade.
 # Leitura e declaração das variáveis:
 # "a", que representa o valor de A;
 # "b", que representa o valor de B.
