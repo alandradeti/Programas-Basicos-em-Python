@@ -4,7 +4,7 @@
 a = int(input("Digite o valor de A: "))
 b = int(input("Digite o valor de B: "))
 
-# Calculo e declaração da variável "valorFinal", que representa o valor final.
+# Cálculo e declaração da variável "valorFinal", que representa o valor final.
 valorFinal = a**2 + (a*b)*2 + b**2
 
 # Imprimir as variáveis "a" e "b" e  "valorFinal".
