@@ -1,0 +1,7 @@
+# Algoritmo TeoremaPitagoras
+
+O algoritmo realiza:
+- O calculo do Teorema de Pitágoras.
+
+O algoritmo apresenta:
+- O resultado do Teorema de Pitágoras.

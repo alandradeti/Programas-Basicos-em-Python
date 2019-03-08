@@ -1,0 +1,7 @@
+# Algoritmo MathProdutoNotavel
+
+O algoritmo realiza:
+- O calculo do produto notável de A e B com a utilização da biblioteca Math.
+
+O algoritmo apresenta:
+- O resultado do produto notável de (A + B)².
