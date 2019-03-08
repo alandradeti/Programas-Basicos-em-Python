@@ -4,7 +4,7 @@
 salario = float(input("Digite o valor do sálario: "))
 reajustePercentual = float(input("Digite o valor do reajuste: "))
 
-# Calculo e declaração da variável "salarioFinal", que representa o salário final
+# Cálculo e declaração da variável "salarioFinal", que representa o salário final
 salarioFinal = ((salario * reajustePercentual)/100 + salario)
 
 # Imprimir a variável "salarioFinal"
