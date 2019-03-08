@@ -1,5 +1,5 @@
 # Leitura e declaração d variável:
-# "valor", que representa o valor digitado pelo usúario;
+# "valor", que representa o valor digitado pelo usúario.
 valor = int(input("Digite um valor: "))
 
 # Cálculo e declaração da variável "valorAnterior", que representa o valor anterior ao digitado.
