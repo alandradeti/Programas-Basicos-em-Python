@@ -1,4 +1,4 @@
-# Leitura e calculo das variáveis:
+# Leitura e cálculo das variáveis:
 # "i", que representa o valor de i;
 # "j", que representa o valor de j.
 i = (((10*8)+3)*9)
