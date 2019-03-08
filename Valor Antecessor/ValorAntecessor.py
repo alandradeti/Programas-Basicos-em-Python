@@ -1,3 +1,5 @@
+# Autor: Ailton Lima de Andrade.
+
 # Leitura e declaração d variável:
 # "valor", que representa o valor digitado pelo usúario.
 valor = int(input("Digite um valor: "))
