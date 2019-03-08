@@ -1,3 +1,4 @@
+# Autor: Ailton Lima de Andrade.
 # Leitura e declaração das variáveis:
 # "nota1","nota2" e "nota3", que representam as notas.
 nota1 = float(input("Digite a primeira nota: "))
