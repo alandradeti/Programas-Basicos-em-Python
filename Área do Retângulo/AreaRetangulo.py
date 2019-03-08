@@ -1,3 +1,5 @@
+# Autor: Ailton Lima de Andrade.
+
 # Leitura e declaração das variáveis:
 # "base", que representa a base do retângulo;
 # "altura", que representa a altura do retângulo.
