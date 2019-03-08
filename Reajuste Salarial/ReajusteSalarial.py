@@ -1,3 +1,5 @@
+# Autor: Ailton Lima de Andrade.
+
 # Leitura e declaração das variáveis:
 # "salario", que representa o salário;
 # "reajustePercentual", que representa o reajuste percentual.
