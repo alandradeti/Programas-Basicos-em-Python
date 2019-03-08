@@ -1,3 +1,4 @@
+# Autor: Ailton Lima de Andrade.
 # Importando biblioteca Math
 import math
 
