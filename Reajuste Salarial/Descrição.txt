@@ -1,0 +1,7 @@
+# Algoritmo ReajusteSalarial
+
+O algoritmo realiza:
+- O cálculo do reajuste salarial.
+
+O algoritmo apresenta:
+- O valor final do salário.

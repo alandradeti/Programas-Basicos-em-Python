@@ -1,0 +1,7 @@
+# Algoritmo ValorAntecessor
+
+O algoritmo realiza:
+- O calculo de qual número é o antecessor do número digitado.
+
+O algoritmo apresenta:
+- O número anterior ao valor digitado.

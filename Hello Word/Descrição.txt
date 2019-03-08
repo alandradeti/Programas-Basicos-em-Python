@@ -1,0 +1,4 @@
+# Algoritmo Hello Word
+
+O algoritmo realiza:
+- A apresentação de uma mensagem
