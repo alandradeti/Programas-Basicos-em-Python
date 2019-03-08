@@ -1,3 +1,4 @@
+# Autor: Ailton Lima de Andrade.
 # Leitura e declaração das variáveis:
 # "fahrenheit", que representa a temperatura em Fahrenheit.
 fahrenheit = float(input("Digite o grau em Fahrenheit: "))
