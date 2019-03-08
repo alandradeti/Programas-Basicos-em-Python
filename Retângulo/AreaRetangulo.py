@@ -4,7 +4,7 @@
 base = float(input("Digite o tamanho do primeiro lado? "))
 altura = float(input("Digite o tamanho do segundo lado? "))
 
-#Calculo e declaração da variável "area", que representa a area do retângulo.
+# Cálculo e declaração da variável "area", que representa a area do retângulo.
 area = (base * altura)
 
 # Imprimir a variável "area".
