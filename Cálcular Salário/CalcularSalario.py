@@ -1,4 +1,5 @@
 # Autor: Ailton Lima de Andrade.
+
 # Leitura e declaração das variáveis:
 # "horasTrabalhadas", que representa as horas trabalhadas;
 # "valorHoras", que representa o valor das horas trabalhadas;
