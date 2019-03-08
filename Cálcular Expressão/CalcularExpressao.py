@@ -1,4 +1,5 @@
 # Autor: Ailton Lima de Andrade.
+
 # Leitura e cálculo das variáveis:
 # "i", que representa o valor de i;
 # "j", que representa o valor de j.
