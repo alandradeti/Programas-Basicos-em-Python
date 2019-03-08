@@ -1,0 +1,13 @@
+# Algoritmo CalcularSalario
+
+O algoritmo realiza:
+- O cálculo do salário bruto.
+- O cálculo do total de desconto.
+- O cálculo do salário líquido.
+
+
+O algoritmo apresenta:
+- As horas trabalhadas.
+- O salário bruto.
+- O total de desconto.
+- O salário líquido.

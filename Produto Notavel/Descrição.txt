@@ -1,0 +1,7 @@
+# Algoritmo ProdutoNotavel
+
+O algoritmo realiza:
+- O calculo do produto notável de A e B.
+
+O algoritmo apresenta:
+- O resultado do produto notável de (A + B)².

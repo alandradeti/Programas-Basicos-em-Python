@@ -1,0 +1,7 @@
+# Algoritmo MediaNotas
+
+O algoritmo realiza:
+- O calculo da média de notas.
+
+O algoritmo apresenta:
+- A média final das notas.

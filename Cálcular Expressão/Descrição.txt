@@ -1,0 +1,7 @@
+# Algoritmo CalcularExpressao
+
+O algoritmo realiza:
+- O cálculo de uma expressão.
+
+O algoritmo apresenta:
+- O valor final de cada expressão.

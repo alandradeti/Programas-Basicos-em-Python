@@ -1,0 +1,7 @@
+# Algoritmo ConverteTemperatura
+
+O algoritmo realiza:
+- A conversão da temperatura de Fahrenheit para Celsius.
+
+O algoritmo apresenta:
+- A temperatura em Celsius.
