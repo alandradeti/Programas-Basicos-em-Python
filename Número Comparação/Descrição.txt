@@ -1,0 +1,7 @@
+# Algoritmo NumeroComparacao
+
+O algoritmo realiza:
+- A comparação entre dois números A e B.
+
+O algoritmo apresenta:
+- Se de not(a==b) é verdadeiro ou falso.

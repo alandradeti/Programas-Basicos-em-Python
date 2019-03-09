@@ -1,0 +1,7 @@
+# Algoritmo NumeroPositivo
+
+O algoritmo realiza:
+- A verificação se o número digitado é positivo ou não.
+
+O algoritmo apresenta:
+- Se o número é positivo.
