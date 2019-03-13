@@ -1,0 +1,7 @@
+# Algoritmo AreaTriangulo
+
+O algoritmo realiza:
+- O cálculo da área do triângulo.
+
+O algoritmo apresenta:
+- A área do triângulo.

@@ -1,0 +1,7 @@
+# Algoritmo IMC
+
+O algoritmo realiza:
+- O cálculo do IMC.
+
+O algoritmo apresenta:
+- O IMC.

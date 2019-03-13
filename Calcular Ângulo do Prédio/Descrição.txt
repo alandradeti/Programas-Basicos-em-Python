@@ -1,0 +1,8 @@
+# Algoritmo AnguloPredio
+
+O algoritmo realiza:
+- O cálculo da hipotenusa, seno, arco-seno.
+
+O algoritmo apresenta:
+- A hipotenusa.
+- O arco-seno.
