@@ -1,7 +1,0 @@
-# Algoritmo NumeroParImpar
-
-O algoritmo realiza:
-- A verificação para saber se o número digitado é par ou ímpar.
-
-O algoritmo apresenta:
-- Se o número é par ou ímpar.
